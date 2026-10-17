@@ -1,0 +1,1390 @@
+
+
+===== PDF PAGE 1 =====
+
+Invent. math. 119, 585- 614 (1995) 
+Inven tiones 
+mathematicae 9 Springer-Verlag 1995 
+Holomorphic Anosov systems 
+I~tienne Ghys 
+l~cole Normale Sup6rieure de Lyon, UMR 128 CNRS, 46 All6e d'Italie, F-69364 Lyon, 
+France 
+Oblatum 29-IX-1993 & 8-VI-1994 
+1. Introduction 
+The group of holomorphic diffeomorphisms of a compact complex manifold is a 
+finite dimensional Lie group and one could expect a rather complete description 
+of the dynamical behaviour of such diffeomorphisms, at least in low dimensions. 
+For instance, holomorphic diffeomorphisms of compact K/ihler manifolds, pre- 
+serving the cohomology class of the K~ihler form, have very simple dynamics, 
+with zero topological entropy [Fu], [Sn]. A theorem of F. Enriques describes 
+alyebraic surfaces for which the group of holomorphic diffeomorphisms has 
+infinitely many connected components [En], [Ro]. 
+However, very interesting examples do exist and deserve attention. Some 
+K3-surfaces have an infinite discrete group of diffeomorphisms whose dyna- 
+mical study seems promising [Maz]. More classical examples are provided by 
+matrices A of GL(n, ~) preserving some lattice A C Cn and, therefore, inducing 
+a holomorphic diffeomorphism,4 of the complex torus ~n/A. If the spectrum 
+of A is disjoint from the unit circle, this diffeomorphism/1 is of Anosov type, 
+with rich dynamics. 
+The purpose of this paper is to investigate the structure of holomorphic 
+Anosov diffeomorphisms and flows, especially in low dimensions. 
+Theorem A. Let c~ be a holomorphic Anosov diffeomorphism of a compact 
+c,~mplex surface S. Then S is a ?complex torus IE2/A and q~ is holomorphically 
+c'on/ugate to a linear automorphism of C2/A. 
+In higher dimensions, we have the following partial result. Recall that a 
+diffeomorphism is called transitive if it has a dense orbit. 
+Theorem B. Let ffa be a transitive holomorphie Anosov diffeomorphism of a 
+compact complex manifoM M. Assume that dp has complex codimension 1, i.e., 
+tlze unstable foliation of ~ has real dimension 2. Then M is homeomorphic 
+
+
+===== PDF PAGE 2 =====
+
+586 1~. Ghys 
+to a torus and d~ is topologically conjugate to a linear automorphism of this 
+torus. 
+According to a well-known conjecture, any Anosov diffeomorphism should 
+be topologically conjugate to some automorphism of some infra-nilmanifold 
+[Sin]. In the holomorphic case, it might be true that any Anosov diffeomor- 
+phism is holomorphically conjuyate to some automorphism of a complex infra- 
+nilmanifold. 
+Next, we study the Anosov flows on compact complex 3-dimensional mani- 
+folds. Strictly speaking, a holomorphic vector field never defines an Anosov 
+flow because it defines an action of 112 _~ ]R 2 and this is of course not compati- 
+ble with the Anosov property. We shall therefore modify the definition slightly 
+in the following way. 
+Consider a holomorphic action q5 of r on a compact complex manifold 
+M denoted by: 
+(T,x) E ~* x M ~ q~(T)(x) E M. 
+Equip M with a hermitian metric, I[. [[. We shall say that ~b is a holomorphic 
+Anosov flow if there exist sub-bundles E uu and E ~ of the real tangent bundle 
+T~M and constants c > 0, a > 0, such that: 
+i) T~M is the direct sum of E uu, E ~'~ and the 2-dimensional bundle tangent 
+to the orbits of the action ~b. 
+ii) For all T E 112", tr * E E ~ and v u E E u~, one has: 
+IId~(T)(v~)ll <__ clTl-~llv"ll 
+lldc~(T)(v~)ll <= clTl~llvUll . 
+If q5 is an action of ~* and k E 7/-- {0}, one can define another action 
+q~k by qbk(T) = qS(Tk). It is clear that if q~ is Anosov, so is ~bk with the same 
+E u~, E ss if k > 0 and reversed if k < 0. Of course, the ktn roots of unity act 
+trivially by qSk so that ~bk is not an effective action. Conversely, it is easy to 
+see that any holomorphic Anosov flow is of the form qSk for some k and some 
+effective action ~b. Therefore, we shall always assume that the holomorphic 
+Anosov flows under consideration are effective. 
+A first way of constructing examples is by holomorphic suspension. Let 
+A E GL(2, ~) preserve a lattice A C C 2 and letA be the corresponding diffeo- 
+morphism of IE2/A. Choose co in ~* away from the unit circle and consider 
+the following diffeomorphism of ~2/A x IIY: 
+(x, T) E ff~2/A x r ~-+ (,'t(x), coT) E ~2/A x ~.*. 
+It generates a group acting properly discontinuously and freely on 11~2/A x ~'~, 
+commuting with the obvious G*-action on the second factor. The quotie~at 
+manifold M is naturally equipped with a holomorphic Anosov flow as soon as 
+the spectrum of A is disjoint from the unit circle. 
+This construction can be generalized. Instead of the trivial ~*-bundle over 
+qg*/A, one can consider any ~*-bundle E --~ qg2/A over C2/A. In some cases, 
+
+
+===== PDF PAGE 3 =====
+
+Holomorphic Anosov systems 587 
+there is an automorphism 0 of E overi[ which acts freely and properly discon- 
+tinuously so that the quotient of E by 0 is a compact 3-dimensional manifold 
+equipped with a I~*-action. However, it is not difficult to check (see 7.2) that 
+such a 0 can only exist if the bundle E is trivialized by a pullback to a finite 
+cover of 11~2/A. Hence, this generalized construction leads to examples which 
+are the same as the previous ones after lifting to a finite cover. We shall leave 
+the detailed analysis of possible bundles E as an exercise for the reader but 
+we mention that, in other situations, these "twisted holomorphic suspensions" 
+can lead to very different IE*-actions. 
+A second kind of examples of holomorphic Anosov flows comes from 
+the choice of a cocompact discrete subgroup F of SL(2,11?). The complex 
+manifold M ----- SL(2,C)/F is 3-dimensional. The II?*-action on SL(2, C) by 
+left translations by ( r 0) 0 r -~ commutes with right translations and induces a 
+r on M which is a holomorphic Anosov flow. The proof of this fact 
+is exactly the same as the proof of the corresponding well known fact in the 
+real domain. 
+We shall modify these examples by using a construction described in [Gh2]. 
+Let u : F ~ ~* be a homomorphism. Consider the following right action of 
+F on SL(2,~;): 
+0 ) (x, 7) ESL(2,11?) u(y)_ l x7 E SL(2,1~). 
+This action still commutes with the action of II;* on SL(2,~) by left transla- 
+(: 0) tions by r- ~ . If this new action of F is free, proper and totally discon- 
+tinuous, we shall say that u is admissible and we shall denote by SL(2,f)//uF 
+the quotient manifold. This is a compact complex 3-manifold naturally equipped 
+with an action of ~* which gives rise to a holomorphic Anosov flow. A few 
+remarks are in order (see Sec. 6 for proofs). If ul and u2 are two admissi- 
+ble homomorphisms from F to I1]*, then SL(2,1I~)//ul F and SL(2,1IY)~u2F are 
+C~-diffeomorphic. One can even choose a diffeomorphism in such a way that 
+it maps the orbits of the IE*-action corresponding to ul to those correspond- 
+ing to u2. However, the two IE*-actions are conjugate by a homeomorphism 
+only if there is an automorphism 0 of F such that u2 = ul o 0. Note that by 
+Mostow's rigidity theorem, the embedding of F in SL(2,C) is rigid and the 
+outer automorphism group of F is finite--unlike that in the real case. 
+Let us finally mention an el'ementary modification of an action ~b of 112" 
+on a compact complex manifold M. Choose k E Z - {0} and assume that the 
+group ;~/kTZ of k th roots of unity acts freely on M. Denote by nk the projection 
+of M onto the quotient, Mk, of M by 71/k71. On Mk one has a natural ~2*-action 
+defined by: 
+1 
+(r,~k(x)) ~ r  M~ ~ k4~(r)(~k(x)) := ~k(4~(rr)(x)). 
+
+
+===== PDF PAGE 4 =====
+
+588 1~. Ghys 
+It is easy to check that this is indeed well defined and that if ~b is Anosov so 
+is k4~. 
+Theorem C. Let q~ be a holomorphic Anosov flow on a compact complex 3- 
+dimensional manifold. Then, up to finite covers, q~ is holomorphically conjugate 
+to one of the examples described above. 
+The same construction enables us to describe interesting examples of an- 
+other phenomenon. Consider a 2-dimensional real foliation on a compact mani- 
+fold and assume that all leaves are conformally hyperbolic (this does not 
+depend on the choice of a Riemannian metric on the manifold). In [Ca] it 
+is shown, in particular, that under such hypothesis, there is a Riemannian met- 
+ric on the tangent bundle of the foliation--which is continuous on the manifold 
+and C a along the leaves--for which all leaves have constant negative curva- 
+ture (see also [Gh3], [Ve]). We show that such a result cannot be extended to 
+the euclidean case. 
+Theorem D. There is a holomorphic foliation, ~,~, of complex dimension 1 on 
+a compact complex 3-dimensional manifold with the followin9 properties: 
+i) every leaf of ~ is dense and is of polynomial 9rowth, 
+ii) every leaf of ~, ~ is conformally equivalent to the complex line IlY, 
+iii) there is no hermitian metric on the tanyent bundle of ~,~, continuous 
+on the manifold and smooth alon9 the leaves, Jbr which all the leaves 
+are flat. 
+Let us compare the main results of this paper with their analogues in the real 
+domain [Ghl], [Gh4], [Gh5]. For holomorphic Anosov systems, we make no 
+assumption concerning the regularity of the stable and unstable distributions and 
+one of the contributions of this paper is to show that, indeed, these distributions 
+are necessarily holomorphic. Of course, "holomorphic rigidity" helps us a lot, 
+but, in many places, it is also an obstacle. For instance, the non existence of 
+an order in I1~ prevents us from adapting the proofs of [Gh5] and leads to the 
+discussion of section 4. 
+2. First properties of the unstable foliation 
+Let M be a compact complex n-dimensional manifold. We denote by TcM its 
+complex tangent bundle. This is a holomorphic fibre bundle over M whose un- 
+derlying real bundle T~M is the tangent bundle of the underlying real manifold 
+M. We shall always equip TcM with an auxiliary hermitian metric, II- II. Let 
+~b be a holomorphic Anosov diffeomorphism of M. By definition, there exist 
+complementary sub-bundles E s and E u of TrtM and constants C > 0, 2 > I 
+such that for every v ~ E E s, v u E E u and every k > 0, one has: 
+lld'pk(v~)ll ~ C~-kllv~ll 
+IIdr ~ CA-klIv=ll. 
+
+
+===== PDF PAGE 5 =====
+
+Holomorphic Anosov systems 589 
+Lemma 2.1. The sub-bundles E s, E ~ are complex sub-bundles of TcM, i.e., 
+stable under multiplication by i = x/~. 
+Proof This is obvious since for v ~ c ES: 
+IId~bk(iv~)l ] = [lid~k(v~)l I = []dc;bk(v~)ll ~ c~.-klli~ll, 
+and therefore iv ~ E E s. Same proof for E u. [] 
+Let ~ and ~ be the stable and unstable foliations tangent to E s and E" 
+respectively. The leaves of ,~ and ~ are C~-immersed submanifolds of M. 
+It follows from 2.1 that each leaf of ~s or o ~ is an immersed holomorphic 
+submanifold of M. 
+Remark. For general Anosov diffeomorphisms, ~" and ~" are usually only 
+continuous foliations. We know of no example of holomorphic Anosov diffeo- 
+morphism for which J~~ and .~-u are not holomorphic. 
+However, we shall prove the following: 
+Proposition 2.2. If E ~ has complex dimension 1, then ~s is a (transversely) 
+holomorphic foliation. 
+Proof Experts will not be surprised by this result. Indeed, it is well known 
+that if an Anosov diffeomorphism of class C ~ is such that E u has (real) 
+dimension 1, then ~s is a codimension 1 foliation of class C 1. Proposition 
+2.2. is a "complexification" of this result taking into account the fact that in 
+the complex domain C 1 implies holomorphic. Therefore, the proof that we 
+present is nothing more than an adaptation of this classical fact [HPS]. 
+Let x and y be two points of M lying in the same leaf L of ~s. Let "077~ U 
+J'x and ~y~-U be the leaves of ~" going through x and y respectively. Small 
+neighborhoods /Ix and Vy of x and y in ~u and ~ ~x ~v can be considered as 
+holomorphic curves which are transversal to Ws. Leth be the holonomy of 
+some path contained in L connecting x and y measured on these transversals. 
+This is a homeomorphism, defined at least on some compact neighborhood Wx 
+ofx in Vx, whose image h(Wx) = Wy is a compact neighborhood of y in Vy. 
+Note that, obviously, h(x) = y and that h does not depend on the choice of 
+the path connecting x and y since the leaves of o~ are simply connected (and 
+even diffeomorphic to some euclidean space). In order to prove the proposition 
+we have to show that h is holomorphic. 
+Let W~ = 4~k(Wx) and Wky'= (ok(Wy) for k ~ 0. It follows from the 
+definition of Anosov diffeomorphisms that if z is a point in Wx, then ~bk(z) 
+and dpk(h(z)) approach each other when k tends to +cx~. One knows also that 
+the leaves of o ~" vary continuously in the C~-topology (see [HPS] for details). 
+ll~ particular, this implies that there is a sequence of diffeomorphisms ztk, of 
+class C l, from Wx k to a compact set ~k(Wx k) in the leaf ~'~Uyk of o ~ going 
+through Yk = qSk(y) such that: 
+
+
+===== PDF PAGE 6 =====
+
+590 1~. Ghys 
+i) the distance between nk(z) and c~kh(o-k(z) in the leaf ~ ~" yt goes uni- 
+formly to zero when z E Wx k and k goes to +~x~. 
+ii) nk tends uniformly to the identity in the Cl-topology in the following 
+sense. There is a sequence ek > 0 tending to zero when k goes to +~ 
+such that for all vectors v tangent to W~ one has: 
+(1- ~k)llv[I _--< [Id~k(v)l[ < (1 +~k)tlvll. 
+Let us now consider the sequence of diffeomorphisms hk = ~b-kztkq5 k de- 
+fined on Wx with values in ~y.~" As gb is holomorphic and acts conformally in 
+each leaf of Y~ the following properties hold: 
+i) he is a (1 + ek)-quasiconformal diffeomorphism from W~ to hk(W~) ( 
+~y (see [Ah]). 
+ii) hk converges uniformly to h when k tends to infinity. 
+Therefore, h is 1-quasiconformal, i.e., conformal. In other words h is 
+holomorphic. [] 
+Remark. If M has complex dimension 2, then the proposition can be applied 
+to both stable and unstable foliations so that one deduces that these foliations 
+are not only transversely holomorphic but are actually holomorphic foliations. 
+3. A complex altine structure along the unstable leaves 
+In this section, we generalize another property of Anosov diffeomorphisms of 
+real codimension 1: their unstable leaves are naturally equipped with affine 
+structures (see [Su], [Gh4] or [Gh5])_ 
+Recall that a complex affine structure on a holomorphic curve L is an atlas 
+consisting of holomorphic diffeomorphisms fi from open sets Ui of L to open 
+sets of  such that the Ui cover L and the fi o f]-I are restrictions of affine 
+diffeomorphisms of 9 to their domains of definition. If x, y and z are three 
+distinct points of L, close enough, then the ratio L~x!-f,!y) is well defined and 9 Js~X)--Jt~ z) 
+does not depend on the choice of fi whose domain contains x, y and z. We 
+shall denote this ratio by ~-Y' this is a holomorphic function of x, y and z. x-z ' 
+One says that an affine structure on a simply connected Riemann surface is 
+complete if it is isomorphic to 9 with its canonical affine structure. 
+Proposition 3.1. Let d? be a holomorphic Anosov diffeomorphism of a com- 
+plex compact manifold. Assume that the unstable foliation ~u has complex 
+dimension 1. Then there exists a unique way to equip each leaf of ~u with 
+a complex affine structure in such a way that: 
+i) ~b is actin9 affinely on leaves of ~u, 
+ii) Let ? be a path in a leaf of the stable foliation, parametrized t~ 
+t E [0, 1], and let h(t) be the eorrespondin9 holonomy between opc~ 
+sets of ~(o) ~ and ~'~(0" If x, y and z are three points of ~o), clo:~e 
+enouoh to ?(0), then the ratio h(t)(x)-h~t)~y) is a continuous function oft. h(t)(x)-h(t)(z) 
+Moreover, for this structure, each leaf of ~ is complete. 
+
+
+===== PDF PAGE 7 =====
+
+Holomorphic Anosov systems 591 
+The proof of this proposition is based on the same ideas as in the real 
+case but technical difficulties occur since it is not a priori clear that there is 
+a holomorphic vector field tangent to ~" or even a continuous vector field 
+which is holomolphic on the leaves. Before giving the proof, we describe a 
+general construction. 
+Let L be a holomorphic curve. For p > 0 we denote by Lp the fibration 
+over L consisting of p-jets at 0 E ff~ of local holomorphic diffeomorphisms 
+f from a neighborhood of 0 c C to some open set of L. Of course L0 is 
+naturally identified with L, and L1 with the set of nonzero tangent vectors to 
+L. Moreover, one has a chain of fibrations: 
+.... L2 P-~2 L1 P-~-*~ L0 =L. 
+For f ELI and r E ~*, we denote by o~. f the 1-jet of the map z H )7(coz) 
+where )~ is any representative of f. This describes Pl explicitly as a IE*- 
+principal fibration. In the same way for (co,#) c ~*  IE and f E L2, we 
+denote by (o9,p). f the 2-jet of z ~ f (~) and this describes a structure 
+/ 
+of a principal fibration for Pl o P2 :L2 ~ L whose structure group is the affine 
+r 
+group Aft, parametrized by z ~ i-~" The fibration P2 : L2 ~ L1 is also 
+principal via the action of r given by (1,#) 9 f. 
+Lemma 3.2. There is a natural identification between affine structures on 
+a holomorphic curve L and holomorphic sections a : L1 ~ L2 which are 
+homogeneous in the following sense. For every o~ E ~* and f C L1, one has 
+o(~. f) = (oo, O). a(f). 
+Proof If L is equipped with an affine structure and if f C Ll there is a unique 
+germ of an affine map .f defined in a neighbourhood of 0 C 112, with values 
+in L, having f as its l-jet at 0. One defines or(f) as the 2-jet of )? at 0. The 
+homogeneity condition is obviously satisfied. 
+Conversely, suppose we are given such an equivariant section o. Let us 
+consider local diffeomorphisms g from open sets of C to open sets of L such 
+that for every z0 in the domain of 9, the 1 and 2-jets at 0 of the map z ~ y(z- 
+z0) satisfy j2(y)(zo) = o(jl(g)(z0)). It is clear that this second order differential 
+equation has local solutions and the homogeneity condition guarantees that any 
+two local solutions differ by an affine map. In other words, these solutions 
+define an affine structure on L. [] 
+Let us come back to our holomorphic Anosov diffeomorphism ~b of the 
+compact complex manifold M. For p > 0, we denote by Mp the space of 
+p-jets at 0 C 9 of holomorphic diffeomorphisms of a neighborhood of 0 into 
+an open set in a leaf of ~u. Just as before, one has a chain of fibrations 
+9 ..----*M2 P-~2 M1 P---~ Mo=M. 
+Moreover, q5 induces natural homeomorphisms qSp of Mp. 
+
+
+===== PDF PAGE 8 =====
+
+592 I~. Ghys 
+In order to prove Proposition 3.1, one has to show the following: 
+Lemma 3.3. There is a unique section cr : MI --~ Mz of P2 such that: 
+i) ~r is continuous and for every leaf L of ~u, it is a holomorphic map 
+from Ll C M1 to L2 C M2 
+ii) ~r is homogeneous, i.e., a(oo. f) = (co, O). a(f), 
+iii) a o ~bl = ~b2 o or. 
+Proof Let us consider the space 5~" of continuous sections cr : MI ~ M2 
+which are homogeneous (i.e., satisfying ii)). This space is certainly nonempty 
+since it can be naturally identified to the space of sections of a fibration with 
+contractible fibres. If ~r and a r are two elements of f one can use the structure 
+of the G-principal fibration, P2, to define cr- cd as a continuous function from 
+M1 to ~. Moreover, one can use the given hermitian metric on M to define 
+the norm of an element of M1 (identified with a vector tangent to M). Then 
+we set: 
+xEM I 
+This is well defined since, by homogeneity, the quotient I(~-o')(x)l only depends Ilxll 
+on the projection pl(x) which lies in the compact manifold M. It is easy to 
+check that (Ys is a complete metric space. 
+We claim that the bijection q~k induced by q5 k on 5f is a dilatation for k 
+large. Indeed: 
+-_ {1(o } x~M, Ilxll 
+> C-12kd(a,a t) 
+since ~bl : M1 ~ Ml is identified with the action of the differential of ~) 
+on nonzero vectors tangent to ~ (C and 2 are the constants involved in the 
+definition of the Anosov property). Therefore, there is a unique element a of . 
+which is invariant under q~. 
+Now, we show that for each leaf L of o ~" the restriction of a to LI C M~ 
+is holomorphic. Let U i (i = 1 ..... N) be an open covering of M by flowboxes 
+for ~. This means that U i is homeomorphic to an open set of 9 x 112 n-I by a 
+homeomorphism which maps leaves of ~ into 9  {,}. This homeomorphism 
+can be assumed to be holomorphic on each leaf of ~" (restricted to ui). In 
+other words, one has nonnatural complex affine structures on the leaves of 5 ~ ~' 
+restricted to U i. 
+Let U~ and U~ be the open sets in MI and M2 corresponding to U i and Jet 
+si : U[ ~ U~ be the homogeneous section associated with the non canonical 
+affine structures that we have constructed. Let x be any point of M1 and let 
+
+
+===== PDF PAGE 9 =====
+
+Holomorphic Anosov systems 593 
+i(k) be a sequence of integers such that c~k(x) E U(~k). It is clear that the 
+unique invariant section a satisfies: 
+a(x) = lira (~]si(k)(Olk(X). 
+Let V be a small open set in a leaf L of ~u and let Vi be the corresponding 
+open set of L1 C M1. As ~-k is a contraction one can find a sequence i(k) such 
+that for every x in VI, one has c~[k(x) E U~ (k). Hence, the above formula shows 
+that the restriction of g to VI is a uniform limit of holomorphic functions. 
+This shows that for every leaf L of ,~-u the restriction of ~ to L1 C M~ is 
+holomorphic. 
+Finally, we show that the affine complex structures that we have constructed 
+on leaves of ~" are complete. Recall that for every affine structure on a simply 
+connected space L there is a developing map D : L ~ ~ which is a local 
+diffeomorphism and such that the given structure is the pull-back by D of the 
+canonical structure (see [Th] for instance). This map D is unique up to post- 
+composition by an affine map and the structure is complete if and only if D is 
+a diffeomorphism. 
+By compactness of M, one knows that there is some e > 0 such that if 
+two points are in the same leaf L of ~u and are at a distance less than s, 
+then the images of these points under the developing map are distinct. Since 
+acts affinely on leaves of ,~" and is expanding these leaves, it follows that 
+the developing map is indeed injective for every leaf L of Yu. 
+In the same way, there is an s > 0 with the following property. Let p c M 
+and choose a developing map D from the leaf L through p to 9 such that the 
+norm of the differential of D at p is 1. This fixes D up to post-composition by 
+a rotation. Then the image of D contains at least the disc of radius r and center 
+0. Since q~ is affine on leaves of ~" and expands these leaves, one deduces 
+that these developing maps D have images which cover arbitrarily large discs, 
+i.e., they are onto. Therefore, the affine structures that we have constructed on 
+leaves of ~ are complete. [] 
+4. A transversely projective structure for the stable foliation 
+In this section, we establish the following proposition. 
+Proposition 4.1. Let (~ be a holomorphic Anosov diffeomorphism of a com- 
+pact complex manifold. Assume that the unstable foliation ~u has complex 
+dimension 1. Then the holonomy pseudogroup of the stable foliation ~s acts 
+projectively with respect to the complex affine structures that we introduced 
+on leaves of ~,~". 
+One could be tempted to adapt the arguments of [Gh5]. However, we shall 
+have to modify them a lot since an order structure is lacking in the complex 
+liner 
+
+
+===== PDF PAGE 10 =====
+
+594 I~. Ghys 
+Let us fix a point x0 in the ambient manifold M and a vector v tangent 
+to ~u at x0 and let us consider the leaf L of ~s through the point x0. If x 
+is another point of L, there is a well defined germ of a holomorphic diffeo- 
+morphism h~0 ~ from a neighborhood of x0 in the leaf ~u through x0 to a , x 0 
+neighborhood of x in the leaf ~x ~ through x: this is the holonomy of any path 
+in a leaf of ~-~ connecting x0 and x. Since leaves of ~ are affine, one can 
+compute the Schwarzian derivative of hxo,~: this is a quadratic differential in a 
+neighborhood of x0 in ~0" At x0 we get a complex quadratic form qxo,x on 
+the 1-dimensional complex vector space tangent to ~u at x0. Evaluating qxo,~ 
+on the vector v we obtain a function: 
+x E L H qxo,~(v) E C. 
+A priori, this is only a continuous function of x 9 L since we only know that 
+the affine structures along the leaves of ~ vary continuously. In order to prove 
+the proposition, we have to show that all germs hxo,x are projective, which is 
+equivalent to showing that their Schwarzian derivatives vanish. In other words, 
+we want to show that qxo,x(V) = O. 
+Before going through the proof, let us note that if x~ is another point of 
+L and if v / = dhxo,x,o(v) is the corresponding vector tangent to ~u at x0, then 
+the composition formula for Schwarzian derivatives yields: 
+qx~o,x(V ') = qx~o.xo(V') + qxo,x(V). 
+Therefore, if O is a domain contained in L, the diameter of the image of the 
+map 
+x E 0 ~-~ qxo,x(V) E 
+does not depend on the choice of the base point x0 (if one changes the vector 
+v accordingly). This will be used later. 
+We shall also need a Markov partition for ~b. Let us recall some definitions 
+and introduce some notations. For every E > 0, there is a q > 0 such that if 
+two points x and y of M are at a distance less than t/ then the discs in the 
+~s and ~u of centers x and y and radii e intersect in a single point leaves ~- x ~" y 
+denoted by [x, y]. 
+A rectanole is a compact connected set R in M, which is the closure of 
+its interior, of diameter less than q, and such that if x and y are in R so does 
+Ix, y]. 
+If R is a rectangle and x E R, we set: 
+R,,(x) = {[x,y],y E R} 
+RAx) = {[y, x], y 9 R} 
+A Markov partition for ~b is a finite collection of rectangles R 1 ..... R N coveri1~g 
+M, with disjoint interiors, satisfying the following property. If x belongs to the 
+interior of R i and ~b(x) belongs to the interior of RJ then: 
+
+
+===== PDF PAGE 11 =====
+
+Holomorphic Anosov systems 
+dp(Ri,(x)) D RJ(dp(x)) 
+R~(x) c 4,-~(R~(4,(x)). 
+595 
+For the existence of Markov partitions, see [Bo], IF-J] or [Si]. 
+For each rectangle R ~, we choose a base point x~ in the interior of R i and 
+we shall simply write R~ and R~ instead of Ri(x~) and R~(xi) respectively. 
+Sometimes, when we do not want to specify to which rectangle R ~ a point x 
+belongs, we write R~(x) or Rs(x) instead of R~(x) and R~(x) respectively. 
+Let o// be the disjoint union of the R / (i = 1 ..... N). Let x C Y/. If ~b(x) 
+belongs to the interior of R j, we set ~b(x) = [x:, ~b(x)]. In this way, we get 
+a partially defined expanding map r from an open dense subset of ~ to "//. 
+We shall not try to define ~(x) for those points x such that ~b(x) belongs to 
+two rectangles. However, we note the following. For each i = 1 ..... N, there 
+is a finite collection of holomorphic diffeomorphisms ~u~,..., 7,iN, from R,i to 
+q/ which are the "branches of the inverse of r i.e., such that if r = y 
+is defined and is in R~, then x is one of the points 7~](y), kui .... N,(Y)" If the 
+Markov partition is thin enough, one can always assume that for each i, the 
+images of the 7J'l,.. ~' 9 , u, are contained in different R~. 
+After these preliminaries, we can begin the proof of proposition 4.1. 
+Let v be a vector tangent to OR, thought of as being a vector tangent to 
+~u at some point x in some R/. As explained before, one can consider the 
+continuous map: 
+y C R~(x)Hq~:(v) ~. 
+Let 6(v) be the diameter of the image of this map. Clearly, if 2 is any complex 
+number, one has: 
+6(~v)=l~126(v), 
+Hence 6 has the tensorial character of an area form i.e., a 2-form of type 
+(1, l). More precisely, let z be a holomorphic coordinate in a leaf ~'x,~" in a 
+neighborhood of x. Then the measure 6 (~) dzdZ does not depend on the 
+choice of this parameter. In this way, we have constructed a natural measure 
+6 on q/. 
+Recall that we can always assume that the boundaries of R~ have zero 
+(2-dimensional) Lebesgue measure (see [Man]). 
+Lemma 4.2. The measure (5 is invariant under 4~. 
+Proof Let v be a vector tangent to ~' at a point x belonging to R/. Consider 
+the 4)-~.image of Rflx). It is the union of Rs(T](x)) ..... Rs(T~u,(x)). 
+Taking into account that: 
+i) q~ acts affinely on leaves of ~u, 
+ii) R!~(x) is connected, 
+iii) qx,y(V) = qr 
+one gets: 
+
+
+===== PDF PAGE 12 =====
+
+596 
+6(v) = diam {qx.y(V) I Y e R~(x)} 
+-1 i = diam {q~_,~),~(d(p-l(v)) I z E 4 (Rs(x))} 
+N, 
+< ~diam {qr [z E R~(~(x))} 
+k=l 
+N, < i = ~6(d%(v)). 
+k=l 
+t~. Ghys 
+In other words, 3 is sub-invariant, i.e., for every Borel set 4 C ~?r one has: 
+6(4) _<_ 6(~-~(4)). 
+It is now easy to deduce that 3 is invariant. If .4 is a Borel set in 0//, one has: 
+6(~) = 6(~)+6(~-4) < 6(~-I(4))+6(~-'(~-4)) = 6(~-'(~)) = 6(~,). 
+Hence, all inequalities are equalities and 3 is an invariant measure. [] 
+Lemma 4.3. The measure 6 is the zero measure. 
+Proof Assume by contradiction that 3 is nontrivial. Then q~ admits an ab- 
+solutely continuous invariant measure and is therefore topologically transitive. 
+This implies that ~ is also topologically transitive and that ~ is everywhere 
+nonzero. 
+We know that all inequalities in Lemma 4.2 are equalities. This means that: 
+diam {q~-,(~),y(dq~-l(v)) [ y E qS-l(R~(x)} 
+N, 
+= ~-~diam {q~_,(x),y(ddp-i(v)) I Y E Rs(~ik(x))}. 
+k=l 
+We leave the proof of the following easy fact for the reader: 
+Fact I. Let K be a connected compact set in C which is the union of finitely 
+many nonempty compact sets Kj. If the diameter of K is the sum of the 
+diameters of Kj, then one can find closed discs Dj containin9 Kj with disjoint 
+interiors and whose centers are on the same line. In particular, if no Ki is 
+reduced to a point then no point of K belongs to three distinct Kj. 
+Since by hypothesis 6 is nowhere zero, no point of C = ~b-l(R~(x)) can 
+belong to three distinct compact sets among the Rs(~] (x)) ..... R~.(ku~v ' (x)). Of 
+course, one can apply the same argument for iterates of q9 and we get arbitrarily 
+thin covers of C by finitely many compact sets C 2 such that no point of C 
+belongs to three distinct Cj. However, this is in contradiction with the following 
+topological fact. 
+Fact 2. A compact set C in IR p (p > 2) with nonempty interior cannot he 
+covered by finitely many compact sets Cj with arbitrarily small diameters and 
+such that no point of C belongs to three distinct Cj. 
+
+
+===== PDF PAGE 13 =====
+
+Holomorphic Anosov systems 597 
+Indeed, let us denote by C ~ and C~ the E-neighborhoods of C and Cj in F,.p. 
+By the classical definition of topological dimension, if the Cj have sufficiently 
+small diameters and ~ is sufficiently small, there is at least one point in C ~ 
+belonging to three distinct C~. Letting c go to zero and taking a limit, one 
+deduces the assertion. 
+This contradiction proves the lemma. [] 
+We can now finish the proof of Proposition 4.1. Let x0 and x be two points 
+in the same leaf L of ~, hxo,x the corresponding holonomy and qxo,x the 
+Schwarzian derivative of hxo,x. Of course hxo,xo is the identity so that qx0,~o = 0. 
+Since we have shown that 6 vanishes, we know that qx, xo does not depend on x 
+and therefore vanishes identically. In other words, the holonomy pseudogroup 
+acts projectively with respect to the affine structures on the leaves of ~u. 
+5. Proofs of Theorems A and B 
+Let 4~ be a holomorphic Anosov diffeomorphism of a compact complex mani- 
+fold M. Assume that the unstable foliation Z u has complex dimension 1. We 
+have shown that the stable foliation ~ admits a transversely projective struc- 
+ture. This implies that the lifted foliation ~-~ in the universal covering space ~r 
+of M is defined by a global submersion: 
+D :a,l --+ {~1. 
+Moreover, there exists a (holonomy) homomorphism 
+H : rq(M) ~ PSL(2,~) 
+such that for every s E/Q and ~, c zq(M) one has the following property of 
+the developing map: 
+D(y . s = H(7)(D(s ). 
+(See for instance [Th]). 
+Let ~,u be the lift of ~,~u toaTt and ~-~ be the leaf of o~,u through a point 
+:~. We know that ~'~u is naturally equipped with a complete affine structure. 
+~u is a diffeomorphism from ~ to In other words, the restriction of D to ~', 
+~?1~ l - {co(s where o)(s is some point of CIP 1. 
+Let us begin with the proof of theorem B. Assume that q~ is topologically 
+transitive so that ~s admits a transverse invariant measure/, with full support 
+(see [Pll]). 
+Lemma 5.1. Let x and y be two points of M in the same leaf of Z s and 
+be a path connecting them and contained in that leaf. Then the holonomy of 
+i' is a global diffeomorphism of the leaf ~x~ of ~u through x to the leaf ~aZUy 
+through y. 
+Proof Each leaf of .~u is equipped with a measure /~, which is finite on 
+COmpact sets. Each leaf of ~u is also equipped with a complete affine structure 
+
+
+===== PDF PAGE 14 =====
+
+598 I~. Ghys 
+so that closed discs in ~" have an intrinsic meaning. Since each leaf of ~ is 
+dense and/~ has full support, for each K > 0 the set of closed discs contained 
+in some leaf of ~ and with measure less than or equal to K is a compact 
+set. 
+Let us consider the path, ~ : [0, 1] ~ M, the holonomy of which we want 
+to study, and let B be a closed disc in ~x u, where x = y(0). Let to be the 
+upper bound of the set of t E [0, 1 ] such that the holonomy ht of ~ along 
+the restriction of 7 to [0, t] is defined on all the disc B with values in ~u ~" ~(t)' 
+Since o~ is transversely projective, we know that, for t < to, hi(B) is a closed 
+disc in ~'r(o'~u Of course, all discs hi(B) have the same measure so that by the 
+remark above, this family of discs hi(B) stay in a compact set. In particular, 
+the diameters of ht(B) in o~(t) (measured with the auxiliary hermitian metric) 
+are bounded, hence hto(B) is defined. If to < l, it would be easy to extend ht 
+beyond to, contradicting the definition of to. This shows that the holonomy of 
+can be defined on all B. As the choice of B was arbitrary, this establishes 
+the lemma. [] 
+Proof of theorem B. The proof of the pr~eding lemma shows that two leaves 
+of yu meet exactly the same leaves of o ~. In other words, all leaves ~'i~u of 
+o ~'u have the same image ~IP 1 - {a} under the developing map D. Choosing a 
+as a point at infinity, one sees that ~,s is defined by a submersion D :&t -~ 
+so that ~s is actually a transversely affine foliation. Moreover, since each leaf 
+of ~,u is mapped diffeomorphically onto ~, it follows that D is a (trivial) 
+fibration. Since leaves of ~s are simply connected, the global holonomy group 
+H(~Zl(M)) is a group of affine transformations of C with no fixed point in 
+C. Hence H is an injection of ~t(M) into the group of translations of r 
+In particular, ~zl(M) is abelian and M has the homotopy type of a toms. If 
+M has complex dimension 2 the fact that M is covered by ~:~4 implies that 
+M is actually homeomorphic to a 4-torus. In higher dimension, it is known 
+that a smooth manifold having the homotopy type of a torus is homeomorphic 
+to a toms [H-S]( 1 thank A. Verjovsky for this argument). Theorem B now 
+follows from Franks-Manning's theorem: ~b is topologically conjugate to an 
+automorphism of a toms, [Fr], [Mann]. [] 
+The proof of theorem A is more delicate. Observe that we do not as- 
+sume that ~b is topologically transitive so that we cannot argue that there is 
+a transversal invariant measure with full support for ~'~. Moreover, the proof 
+that follows will be used again later. 
+Since we now assume that ~s and ~" are one dimensional, we can apply 
+the result of section 4 for both foliations. Hence, M admits local coordinates 
+in CF l  CF 1 such that changes of coordinates are in PSL(2,) x PSL(2,~I-'). 
+Let: 
+D:M~CF l x~lP 1 
+and 
+H : tel(M) ~ PSL(2,tE) x PSL(2,1I~) 
+
+
+===== PDF PAGE 15 =====
+
+Holomorphic Anosov systems 599 
+be the developing map and holonomy corresponding to this structure on M 
+respectively. 
+Lemma 5.2. D is injective. 
+Proof Let s be a leaf of ~s and let U(s be the union of all leaves of 
+,f u intersecting s Choose a sequence of leaves ([~i)i~ such that the open 
+connected sets Ui = U(s satisfy: 
+i) The Ui cover/Q. 
+ii) For each k > 1, the union f2k = ~ik=~ U~ is connected. 
+We shall prove the following assertion, stronger than Lemma 5.2, by induction 
+on k. 
+Assertion. The restriction of D to Ok is injective and the image D( f2k ) is the 
+complement in CIP 1 x ~F ~ of the 9raph of a continuous map Jrom ~IP ~ to 
+IEIP ~, or, of the union of vertical {,) and of the 9raph of a continuous 
+map from r ~ -{,~ to r ~. 
+Let us prove this assertion for k = 1. We know that the restriction of D to 
+a leaf s of ~s is a diffeomorphism onto a set of the form (IEIP ~ - {a})  {b}. 
+Each point x of ~l _ {a} corresponds to a point of [1, still denoted by x, 
+and the leaf containing x of ~u, ~u ~" x, is mapped diffeomorphically by D onto 
+a set of the form {x} x (~IP 1 - {~o(x)}). The map 09 : ~1 _ {a} --~ ~IP l is 
+continuous since the complement of its graph is the open set D(U1). Hence D 
+restricted to U1 is injective and its image has the announced form. 
+Assume the assertion has been proven up to k. Since we already know that 
+D is injective on Qk and D(f2k), is the complement in IEIP 1  ~IP 1 of the 
+graph of some continuous map uk : ~,l --~ ~lp~, or, of the union of a vertical 
+{ak}  ~IP 1 and of the graph of a continuous map Uk : r _ {ak} ~ II~IP 1. 
+Moreover we know that D is injective on Uk+t and that D(Uk+I) is the 
+complement of the union of {bk+l }  CIP 1 and of the graph of vk+l : 112]~ L -- 
+{b~+l} ~ C~ I (this is the case k = 1). 
+It follows that D(Y2k)ND(Uk+! ) is connected since it is the complement in 
+r 1 x r 1 of a finite union of real codimension 2 topological submanifolds. 
+Let x and y be two points in f2k+l = f2k U Uk+l such that D(x) = D(y). 
+Since we already know that D is injective on f2k and Uk+l, we can assume 
+that x is in f2k and y in Uk+l. Let z be a point in Uk+| A I2k and ~ be a path 
+in D(12k)ND(Uk+~) connecting D(z) and D(x) = D(y). This path lifts in a 
+unique way in f2k from z to x. 'In the same way, 7 lifts in a unique way as 
+.a path in Uk+l from z to y. Sirice D is a local diffeomorphism, two lifts of 7 
+ul M with the same origin are equal. In particular, the endpoints of these lifts 
+arc the same, i.e., x = y. Therefore the restriction of D to f2k+l is injective. 
+We still have to describe the image D(f2k+~). Let p be a point of ~l 
+di'~.tinct from bk+! and ak (in case ak is defined). We claim that uk(p) = 
+vk~l(p). Otherwise D(f2k+l) ----- D(f2k)UD(Uk+I) would contain a complete 
+vertical {p} x CIP 1. This is of course not possible since we would have an 
+
+
+===== PDF PAGE 16 =====
+
+60o E. Ghys 
+embedding of 1121P 1 in D-l(12k+t ) C/ht whose image would be in a leaf of ~ 
+and we know that all leaves of ~" are copies of ~. This implies that the open 
+set D(12k+l) has the required form. 
+Proof of Theorem A. The previous lemma shows that D is injective and its 
+image is the complement of the graph of a continuous map u : ~IP 1 ~ CIP 1 , or, 
+of the union of a vertical {c}  1 and of the graph ofu : ~IP 1 -{a} ~ r 1. 
+Reversing the roles of ~s and ~'", one sees that only two possibilities can 
+occur~ 
+i) D(M) is the complement of the graph of a homeomorphism u : ~l -~ 
+r ~ , 
+ii) D(/Q) has the form (11~ 1 - {a})  (~1 _ {b}). 
+Let us first consider case i) and let us show that it is not possible (even 
+though it will be important for the study of Anosov flows; see section 7). Since 
+leaves of ~ and ~ are simply conne~ed, a nontrivial element 7 of nl(M) 
+is such that H(7 ) does not fix a leaf of ~'~" or ~'". This excludes case i) since 
+a nontrivial element of PSL(2,r has at least one fixed point in ~IP 1 and, in 
+case i), this would give rise to a fixed leaf. 
+In case ii), we can always assume that a = b = ~ and the same argument 
+shows that H(TrI(M)) should consist of affine maps fixing no leaf of ~'~ or 
+~, i.e., of translations. Hence M is the quotient of II? by a lattice; it is 
+a complex torus. A lift of ~b to/Q has to be an affine transformation of r 
+preserving vertical and horizontal lines and normalizing the lattice. Theorem A 
+is proved. [] 
+6. Some examples of holomorphic Anosov flows and of nonuniformizable 
+foliations 
+We first explain why we have chosen to define a holomorphic Anosov flow 
+as being an action of C*. We could have considered holomorphic vector fields 
+X on a compact complex manifold M generating a flow ~br(z E ~) for which 
+there is a d~b ~ invariant splitting: 
+TcM= E ss | E uu | ff~X 
+and constants C > O, 2 > 0 such that: 
+Ild~b~(va)l[ < Cexp(-~(z))liv~'H 
+lld4~(v")ll > Cexp(2~(v))llv"[I 
+for all v ~ E E ~s, v u E E ~u and z E C (where ~ is the real part). However, 
+this is not more general than C*-actions. Indeed, the real flow ~it(t E JR) ~s 
+obviously uniformly equicontinuous so that its closure in the diffeomorphis~n 
+group of M is a torus T t for some l > 1 commuting with the flow ~b ~. The 
+above hyperbolicity assumptions imply that a vector tangent ot the orbits of 
+T t has a zero component in E~sO E uu and it easily follows that l = 1. In 
+
+
+===== PDF PAGE 17 =====
+
+Holomorphic Anosov systems 601 
+other words, there is a real number 05 such that ~b ia = id. Normalizing, we 
+can always assume that 05 = 2n so that q52'~ = id and the flow q5 ~ corresponds 
+to a 117*-action of exp(z) EII;*. 
+Closed orbits of ~*-actions have a richer structure than that in the real 
+case; their "period" is an element ~o in ~* and the closed orbit is the elliptic 
+curve I17"/{~o~}. In case of a holomorphic suspension, as described in the in- 
+troduction, periods are precisely the powers of the complex number co used in 
+the construction. 
+We now describe with more details the examples mentioned in the intro- 
+duction. Let F be a discrete cocompact subgroup in SL(2,117). Observe that, 
+up to a Z/277-extension, SL(2,1r) is the isometry group of the real hyperbolic 
+3-dimensional space ~I 3 so that F is the fundamental group of a hyperbolic 
+3-dimensional orbifold. Many examples have nonvanishing first Betti number, 
+i.e., are such that there exist nontrivial homomorphisms u : F -+ 112" (see [Th]). 
+If u is such a homomorphism, we have considered the right action of F on 
+SL(2,11?) defined by: 
+(x, 7) E SL(2, ff2) x F ~--~ x . 7 = 0 u(~) -I xT" 
+If this action is free, proper and totally discontinuous, we denote by 
+SL(2,1r)//uF the quotient, and we say that u is admissible. We noted that 
+there is a natural II~*-action on this quotient, coming from left translations by 
+(: 0) matrices r- ' ' 
+Let H + and H- be the right invariant holomorphic vector fields in SL(2,117) 
+corresponding to the elements (~ ~ :)and (01 0~ of the Lie algebra of 
+SL(2, ~) and denote by .~ff+ and ogt '~- the one-dimensional holomorphic folia- 
+tions generated by H + and H-. It is easy to check that the differential of the 
+right action by 7 in SL(2,~) maps H + and H- to u(7)2H + and u(7)-2H - 
+so that H + and H- are not invariant (unless u 2 is trivial) but 9F + and ~- 
+are invariant. In other words, on the compact manifold SL(2,~)/uF, we have 
+two natural foliations .~tt~+ and 9~- which are invariant under the C*-action. 
+When u 2 is trivial, ~+ and Jt ~- are parametrized by vector fields H + and 
+H- which are expanded and contracted respectively by the action so that, at 
+least in that case, the ~*-action is a holomorphic Anosov flow. 
+In order to simplify our description of these examples, we shall assume that 
+F is torsion-free (this can always be achieved by replacing F by a finite index 
+subgroup by a theorem of Selbe'rg). In particular, F injects into PSL(2, ~) = 
+SL(2,112)/{+id}. 
+Note that if ~ : F -~ {4-1} is a homomorphism, the map z : 7 E F ~-+ 
+~(',')7 E SL(2,112) is an injective homomorphism whose image is another dis- 
+crete subgroup F' of SL(2,1I;). In such a situation, we shall write F = 4-F'. 
+This happens precisely when F and F' have the same projection in PSL(2, IE). 
+Of course, u : F -~ SL(2,112) is admissible if and only if e.u o z-l : F' --+ 117" 
+is admissible and the corresponding actions of I1~* are conjugate. 
+
+
+===== PDF PAGE 18 =====
+
+602 1~. Ghys 
+Proposition 6.1. Let F be a discrete torsion-J~ee cocompact subgroup of 
+SL(2,r Then: 
+i) homomorphisms u : F --+ (17.* which are close enough to the trivial 
+homomorphism are admissible, 
+ii) if u : F --~ 112" is admissible, the corresponding (lY-action on 
+SL(2, C)/uF is a holomorphic Anosov flow. 
+Let Fl and F2 be two discrete torsion-free cocompaet subgroups of SL(2, ~). 
+Then SL (2, (E)//,t Fl and SL (2, (U)/u2 I'2 are homeomorphic if and only if there 
+is a continuous automorphism 0 of SL(2, (E) such that O( FI ) = + F2. In such a 
+case, there is a C~176 between SL(2, ~ )//,~ F l and SL(2, C )//u2 F2 
+sending orbits of the first (lY-action to orbits of the second (without neces- 
+sarily commuting with the actions). 
+Proof Property i) is a complex version of the analogous property in the case 
+of SL(2,~) and can be proven exactly in the same way (see [Gh2] or [Gol] 
+for details). 
+Assume SL (2, C)//u~ F1 and SL (2, ~)//,2 F2 are homeomorphic. Then FI and 
+F2 are isomorphic as abstract groups and it follows from Mostow's rigid- 
+ity theorem that there is a continuous automorphism 0 of SL(2, (E) such that 
+O(FI ) = zkF2. Note that, up to conjugacy, the only nontrivial continuous auto- 
+morphism of SL(2,C) is given by O(x)= s 
+We now show that if F2 =  ) then SL(2, C)//,)FI and SL(2, ~)fu2F2 
+are diffeomorphic. We can of course assume that 0 = id, and that FI =/72 = ft. 
+Let us consider first of all the quotients 114,. = U(I)\SL(2,G)//,Fi (i = 1,2). 
+These are manifolds since we assumed that F is torsion free. Note that if u, 
+is trivial, then SL(2,(12)/Fi is the 2-fold (spin)-cover of the orthonormal frame 
+bundle of the 3-manifold V which is the quotient of the hyperbolic 3-space by 
+the action of F and Mi is the unit tangent bundle of V. 
+On Mi, we have a real one-parameter flow f~ coming from the complex 
+one-parameter flow on SL(2,(12)/u F. Of course when ui is trivial the flow fl 
+is nothing but the geodesic flow of V. 
+The quotient ff~*\SL(2,1t2) of SL(2, C) by the diagonal subgroup is isomor- 
+phic to the complement of the diagonal in CF l x r I. The universal cover/Q, 
+of Mi, naturally identified with U(1)\SL(2, G), fibres over the complement of 
+the diagonal A in ff;F 1 x r 
+Di :J~i ----+ {F]PI x ~]pl _ z~ 
+and this fibration is equivariant under the diagonal embedding: 
+H : 7 E F ~-+ (7,~) E PSL(2,)  PSL(2,(I~). 
+The fibres of Di are the orbits of the lifted flow f~. We therefore observe 
+that both flows f~ and f~ have the same transverse structure, i.e., equivalent 
+holonomy pseudogroups. It follows from [Ha] (see also [Gr], [Ba]) that there 
+
+
+===== PDF PAGE 19 =====
+
+Holomorphic Anosov systems 603 
+is a C~-diffeomorphism between MI and M2 sendin9 orbits of f{ to orbits 
+of H2 and, in particular, that Ml and M2 are diffeomorphic. 
+We claim that the circle fibrations SL(2, ~)/~,/" --+ M, are trivial fibrations. 
+This follows from the fact that orientable closed 3-manifolds are parallelizable 
+and from the fact that the space of homomorphisms from/" to ~7" is connected. 
+Indeed, choose a path ut (t E [0, 1]) connecting the trivial homomorphism to 
+ul and consider the right action of /~ on SL(2, ~)  IH 3 (where IH 3 is the 
+hyperbolic 3-space) given by: 
+(x'p)'t?=((ut~ y) ut(?)-'O )xy,?_,(p)) ESL(2,C) 
+The second factor has been introduced in such a way that the action is free, 
+proper, and totally discontinuous for each t E [0, 1]. The quotient spaces are 
+homotopy equivalent to SL(2,1F)/F and SL(2,tE)/utF for t = 0 and t = 1. 
+Moreover, for each t, the right-action of F commutes with left translations 
+by U(1 ) so that each quotient space is the total space of circle bundle. Since 
+we noticed that this circle bundle is trivial for t = 0, we deduce that it is 
+also trivial for t ---- 1. Hence the circle bundles SL(2,C)~'~ F --~ Mi are trivial 
+and the diffeomorphism between M~ and M2 sending orbits of f] to orbits of 
+f~ can be lifted to a diffeomorphism between SL(2, ~)//u~ F and SL(2, C)/,2F 
+sending orbits of the first IE*-action to orbits of the second one. 
+It is well known that the Anosov property is invariant under time reparamet- 
+rization, i.e., if there is a C~ sending orbits of a (real) flow 
+ft I to orbits of another flow ft2 and if f] is Anosov, so is f~ (see, for instance 
+[Gh4]). The same fact applies (with the same proof) in the holomorphic case. 
+Since we have already observed that when u : Y + ~* is trivial the IF*- 
+action on SL(2,~)/F is Anosov, it follows that ~*-actions on SL(2,1F)/~F 
+are Anosov for admissible u. This completes the proof of proposition 6.1. [] 
+Proposition 6.2. If u : F --~ ~E* is an admissible homomorphism such that u 2 
+is non trivial, then the space of holomorphic vector fields on SL(2, ~)//,F has 
+complex dimension 1 and is generated by the vector field corresponding to 
+the ~*-action. 
+Proof We have already noticed that there are two holomorphic one dimensional 
+foliations ~+ and ~f~- on V = SL(2,~)//uF which are invariant under the 
+r and which provide, together with the tangent bundle to the orbits of 
+~1"*, a splitting of TcV as a sum of three line-bundles. In order to show the 
+proposition, it is enough to show that there is no nonzero holomorphic vector 
+field in V tangent to ~+ (or to ~r if u 2 is nontrivial. Assume there is such 
+a vector field ~. Using the fact that the C*-action preserves A,e + and that the 
+space of holomorphic vector fields is fnite dimensional, one can choose r such 
+that the IE*- action ~b(T) (T E C*) satisfies, for some k E Z: 
+dga(T)(~) = Tk~ for all T E ~*. 
+
+
+===== PDF PAGE 20 =====
+
+604 1~. Ghys 
+If one lifts ~ to SL(2,1E), one gets a vector field ~ which is of the form f.H + 
+where f is holomorphic on SL(2,IE). Taking into account the invariance of 
+under the action of F and the non-invariance of H + already observed, we get: 
+(1) f(x.7) = u(7)-2f(x) for ), E F and x E SL(2,~). 
+Moreover, we have: 
+((: 0)) (2) f T_ 1 .x = Tkf(x) for all T E IE* and x c SL(2,1E) 
+Assume first that k = 0 so that f actually defines a function f on 
+112*\SL(2,1U) ------- ~IP )  IE 1 - A. 
+Then, by (1), f is invariant under the action of the first commutator group F t 
+of F (on which u is obviously trivial). Now this action of F' on IEIP l  IEIP l is 
+topologically transitive. This is equivalent to the fact that the geodesic flow of 
+the homology cover of a compact hyperbolic manifold is topologically transi- 
+tive. Indeed all non trivial normal subgroups of a discrete group of isometrics 
+of a hyperbolic space have the same limit set and all non elementary groups act 
+topologically transitively on the square of their limit set (see [Th] and [G-H] 
+page 123). Therefore f is constant--but this is impossible if u 2 and f are not 
+trivial. 
+Now, assume that k 4:0. Consider the function f: V I = SL(2, ~)/F t ~ r 
+According to (2), f has to vanish on periodic orbits of the C*-action on 
+V t. But, on any compact hyperbolic manifold the union of closed geodesics 
+homologous to zero is dense (as follows also from [G-HI). This shows that 
+the union of closed orbits of the C*-action on V' is dense in Vq It follows 
+that f is zero. [] 
+Corollary 6.3. Let F be a discrete torsion free cocompact subgroup of 
+SL(2,C) and Ul,U2 : F --~ C* be two admissible homomorphisms. Then 
+the compact complex manifolds SL(2,~)/uF (i = 1,2) are holomorphi- 
+cally diffeomorphic only if there is an automorphism 0 of F such that 
+U2 :t:l =Ul o0. 
+Proof If u 2 is trivial, then SL(2,tE)/ul F is a homogeneous space of SL(2,IF) 
+and therefore admits three linearly independent holomorphic vector fields. Ac- 
+cording to 6.2, on deduces that u~ is also trivial if SL(2,tE)[u2F is holomor- 
+phically diffeomorphic to SL(2, IE)/u~ F. The corresponding complex manifolds 
+are therefore of the form SL(2,~)/Fi (i = 1,2) and F1 = +F2. Any holo-. 
+morphic diffeomorphism between these two homogeneous spaces induces ,qn 
+isomorphism between the Lie algebras of holomorphic vector fields which aie 
+themselves isomorphic to the Lie algebra of SL(2,IE). The corollary follows 
+in this special case. 
+Now, assume that u 2 and u 2 are nontrivial and that there is a holom(~r" 
+phic diffeomorphism F between the corresponding compact complex manifolds. 
+
+
+===== PDF PAGE 21 =====
+
+Holomorphic Anosov systems 605 
+two eigenvalues. 
+orbits containing 
+and 2-1(7)ui(?). 
+equal or inverse. 
+Proposition 6.2 implies that F conjugates the ~*-actions or one with the inverse 
+of the other. Let y be a nontrivial element of F and denote by 2(7), 2(?) -1 its 
+The C*-action on SL(2, ~)~u,F contains precisely two closed 
+a loop freely homotopic to 7  whose "periods" are 2(7)ui(y ) 
+Note that periods of closed orbits related under F should be 
+If 0 denotes the automorphism of F (defined up to conjugacy) 
+induced by F, it follows that either u2 = ul o 0 or u21 = ul o 0. [] 
+Corollary 6.4. Let F be a discrete torsion free cocompact subgroup of 
+SL(2,~) and Ul,U2 : F ---* ~* be two admissible homomorphisms. Then the 
+r on SL(2, C)//u,F are conjugate by a homeomorphism only if there 
+is an automorphism 0 of F such that u2 = ul o O. 
+Proof This is the same proof as that of Corollary 6.3 since we only used 
+preservation of periods of closed orbits. [] 
+It would not be difficult to give a sufficient condition in 6.3. and 6.4. 
+We can now prove theorem D. 
+Theorem 6.5. Let F be a discrete torsion-free cocompact subgroup ofSL(2, ~) 
+and u : F --+ 112" be an admissible homomorphism such that [u[ : F 
+~*+ is nontrivial. Then the holomorphic one-dimensional Joliation Yf+ on 
+SL(2, ~)//uF has the following properties: 
+i) all leaves of ,~f~+ are dense with polynomial growth, 
+ii) every leaf of o~+ is conJormally equivalent to 112, 
+iii) there is no hermitian metric on the tangent bundle of 9f ~+, continuous 
+on the maniJold and smooth along the leaves, Jor which all the leaves 
+are flat. 
+Proof Property i) follows from the fact that the holomorphic Anosov flow is 
+not a suspension (the proof of the density of stable leaves of transitive Anosov 
+flows which are not suspension, as given in [Pll], immediately generalizes to 
+the complex case). 
+Property ii) also follows from the Anosov property. Indeed, by compactness 
+of the ambient manifold, one can find e > 0 in such a way that for every point 
+x, there is a holomorphic map fx from the disc of center 0 and radius e in 
+to the leaf of ~vt~+ through x sending 0 to x and such that the norm of the 
+derivative of fx at 0 is 1. Using the C*-action qS(T), we get holomorphic maps 
+qS(T)oJ'~T-kx)) from a disc of radius e to the leaf of ar163 + through x with an 
+arbitrarily large derivative at 0. This implies that the leaf of Jr+ through x is 
+parabolic, i.e., conformally equivalent to IlL 
+We now prove the crucial property iii). Assume by contradiction that there 
+is such a hermitian metric g and let ~ be its lift to SL(2,~). Consider the 
+function p : SL(2,tlT) --~ ~,~_ which is the ~-length of the vector field H +. By 
+invariance of ~ and non-invariance of H + we get for every 7 in F and x in 
+SL(2,~): 
+p(x 9 ~) = p(x)lu(~)l 2 . 
+
+
+===== PDF PAGE 22 =====
+
+606 1~. Ghys 
+{(1 ~ S).x} parametrized Now, consider, an orbit of H + in SL(2,~), i.e., 1 
+bysE r It is equipped with the eomplete fiatmetric p((10 ~)'x)lds] 2 
+(completeness follows from the fact that it is isometric to a leaf of a compact 
+manifold). Hence p is constant on orbits of H + and defines a function fi on the 
+left quotient ofSL(2,~)by {(1 ~ ':)},naturally identified to ~2-{(0,0)} 
+(via the natural linear action of SL(2, ~)). This continuous function fi : r _ 
+{(0, 0)} ~ ~_ satisfies: 
+(3) fi(i(7)(p)) = lu(7)12(fi(p)) 
+for every 7 in F and p in r _ {(0,0)} where i(7) =/~(7-t) ' t7 c GL(2,~). 
+Fix 09 C r and consider the following function on ~2 _ {(0,0)}: 
+p ~ r _ {(0,0)} ~ Fa(p) = P(02 P~) 
+fi(P) 
+This function Fa is invariant under the action of i(F) on C 2 - {(0,0)} which 
+has dense orbits (this is a way of expressing minimality of the horocyclic 
+foliation 3r So, there is a constant ca such that Fa(p) = Ca. Of course, 
+Ca~a2 = CaeCa2 so that there is an a E ~ such that for every 02 E r and 
+p E r _ {(0, 0)} one has: 
+t~(02 p) = 1021~(p). 
+Assume that a 4=0. Then the equation fi < 1 would define a domain in r 
+{(0, 0)} bounded by a topological sphere transversal to real straight lines going 
+through the origin. This domain should be invariant by elements 7 in the first 
+commutator group F' of F. This is impossible since a non trivial element of 
+F / is a hyperbolic matrix in SL(2,r and its action on r cannot preserve a 
+topological sphere. 
+Now, if a = 0, the function fi is constant on rays and, being continuous, 
+is bounded. This is obviously in contradiction with (3) since we assumed that 
+]u[ is a nontrivial homomorphism in IR~_. This contradiction shows that there 
+is no fiat hermitian metric on ~t ~+. [] 
+It is probable that theorem 6.4 can be strengthened in the following way: 
+there should not exist a measurable Riemannian metric on the tangent bundle 
+of 3r +, smooth along the leaves, such that almost all leaves are fiat. 
+7. Classification of holomorphic Anosov flows on compact complex 
+3-manifolds 
+In this section, we prove theorem C. Let ~b(T) be a holomorphic Anosov flow on 
+a compact complex 3-dimensional manifold M and let X be the corresponding 
+
+
+===== PDF PAGE 23 =====
+
+Holomorphic Anosov systems 607 
+holomorphic vector field whose flow is qS(exp(s)), (s E ~). By definition, there 
+is a splitting: 
+T~ M = E ss | E uu | ~ . X 
+as a sum of three line bundles. Since the action of qS(T) is hyperbolic in the 
+normal direction to the (complex) one-dimensional orbits, it follows, as in the 
+usual real case, that E s = E ss @ CX and E u = E uu @ IEX are integrable and 
+generate foliations ~'~ and ~u called the central stable and unstable foliations 
+respectively. 
+Note that the action of the circle group S 1 C ~* is locally free on M so that 
+the quotient of M by this action is a 5-dimensional real orbifold M ~ equipped 
+with a real flow ft coming from the action of ~* on M. This real flow ft 
+is Anosov (if one generalizes appropriately the classical definition to orbifolds, 
+which is not a problem). As a matter of fact, most of what follows could be 
+stated for Anosov flows on 5-manifolds generating a transversely holomorphic 
+1-dimensional foliation. 
+Many results from sections 2 to 5 generalize to flows: 
+Proposition 7.1. The central foliations ~s, ~.~ are transversely projective. 
+More precisely, there is a holomorphic fibration D from the universal covering 
+space M of M to some open set in ~IP 1 x ~IP 1 and a homomorphism H from 
+the fundamental 9roup 7q(M) of M to PSL(2,~) x PSL(2,ff~) such that: 
+i) the lifts oJJ ~S and ~ to ~1 are the inverse images of horizontal and 
+vertical fibrations of ~l x C~ 1 by D respectively. The fibres of D 
+are liftedorbits of the Anosov .flow, 
+ii) for Fn E M and y E hi(M), one has D(7'- ~) = H(7)D(r~ ) where, of 
+course, H(~)D(ff~) denotes the action of the pair H(7) of elements of 
+PSL(2,ff~) on the pair D(ffl) of points of ~IP I. 
+Proof The existence of a transverse invariant projective structure for ~s and 
+.~ is obtained exactly in the same way as in sections 2 through 4: one simply 
+constructs affine structures on strongly stable and unstable leaves and uses a 
+Markov partition for the associated Anosov flow ft. So, we get the existence 
+of a global holomorphic submersion D from M to some open set in ~IP 1 x ~IP 1 
+and a holonomy homomorphism H : ~I(M) --~ PSL(2,~) x PSL(2,~). 
+The method of proof of theorem A generalizes in this case and shows that 
+D is a locally trivial fibration over its image. Moreover the image of D is 
+either: 
+l) (~" - {a}) x (Cn '~ - {b}) 
+II) the complement of the graph of some homeomorphism of ~IP I. 
+In case I, one can of course assume that a and b are points at infinity so 
+that the image of D is ~ x IIL In this case, the holonomy H has its image 
+contained in Aft  Aft where Aft is the complex affine group of IE. This will 
+eventually correspond to the suspension case. 
+Let //1 and H2 denote the two components of H. We will show that in 
+case II we can assume that H1 = H2 and that the image of Ht : nl(M) --~ 
+PSL(2,C) is a discrete cocompact subgroup /'. Indeed, let 7 E 7~I(M) and let 
+
+
+===== PDF PAGE 24 =====
+
+608 1~. Ghys 
+2(H1(7)), (,2.(HI(T))) -1 be the two eigenvatues of HI(7) (defined up to +l). 
+If )~(Hl(7))=l= ~: 1, one produces a closed orbit of the associated Anosov flow 
+ft for which the eigenvalue of the corresponding Poincar6 map on the stable 
+manifold is 2(H1(7))  From the obvious fact that an Anosov flow has a finite 
+number of periodic orbits of period less than a given bound, one deduces that, 
+for every K > 0, there is a finite number of conjugacy classes of elements 
+y in gl(M) such that ~ < 12(H~(~))I < K and 2(H1(7))4: + 1. This easily 
+implies that the identity component of the closure of Hl(rq(M)) in PSL(2, ~) 
+contains only parabolic elements. It follows that HQq(M)) is discrete unless 
+it is conjugate to a subgroup of Aft. The latter case is impossible since the 
+inverse image by D of {oo}  ~F l (which is nonempty in case II) would 
+be a leaf of the lift of ~u toM, invariant by all rq(M), and would therefore 
+produce a closed leaf for ~-u in M. Hence Hi (gl (M)) is discrete in PSL (2, II~) 
+and, of course, the same arguments show that H2(gt(M)) is also discrete. 
+If these discrete subgroups of PSL(2,~) were not cocompact, they would 
+be of virtual cohomological dimension less than or equal to 2, i.e., they would 
+contain finite index subgroups of cohomological dimension less than or equal 
+to 2. This follows from the fact that the quotient of hyperbolic 3-space by 
+a torsion-free not cocompact discrete subgroup of PSL(2,~) retracts to its 2- 
+skeleton and it is an Eilenberg-MacLane space. Consider now the 5-dimensional 
+real orbifold M' that we described above. We know that its universal covering 
+spaceM' is a trivial IR+ fibration over the complement of the graph of some 
+homeomorphism of ~IP 1 so that it has the homotopy type of the 2-sphere. This 
+is a contradiction since a group of virtual cohomological dimension less than 
+or equal to 2 cannot act cocompactly on a 5-manifold homotopy equivalent to 
+a 2-sphere (by an elementary spectral sequence argument). Hence HI(nj(M)) 
+and H2(~1(M)) are both discrete cocompact subgroups of PSL(2, ~). 
+Let us consider the homeomorphism h of ~F 1 whose graph is not in the 
+image of D. Clearly h conjugates H1 and//2 so that it follows from Mostow's 
+rigidity theorem that h is actually an element of PSL (2, IE). Finally, conjugating 
+D by id x h, one sees that H1 = 1t2 and that the image H1(~I(M)) = 
+H2(z~I(M)) = F is a discrete eocompact subgroup of PSL(2,~). 
+We shall now prove theorem C in case I, where D(M) = ~  IE. 
+Proposition 7.2. In case I, up to a finite cover, the holomorphic Anosov flow 
+is holomorphically conjugate to a holomorphic suspension of some linear au- 
+tomorphism of a torus 2/A. 
+Proof Passing to a finite cover, we can assume that the holonomy group 
+F = H(nl(M)) is torsion-free. It follows that the Sl-action is a free action so 
+that the associated real Anosov flow ft is a flow on a manifold M' (not only 
+an orbifold). According to [P12], any Anosov flow admitting a transverse affinc 
+structure has a global transversal section (note however that in our special case 
+it is much easier to prove this than to use the full strength of [P12]). This globat 
+section inherits a complex affine structure and the first return map is Anosow 
+
+
+===== PDF PAGE 25 =====
+
+Holomorphic Anosov systems 609 
+So, it is a complex torus ~2/A and the first return map is a ~-linear mapping 
+A E GL(2,~). 
+In other words, there is a cyclic covering ~t of M which is a II~*-fibration 
+over ~2/A and the Galois group of this fibration is generated by an auto- 
+morphism inducing A on 11~2/A. Recall that II~*-fibrations over tori r are 
+topologically classified by their first Chem class in H2(~2/A, 7Z), which is 
+described by the imaginary part of a hermitian form on ~2, taking integral 
+values on A. Note that the hyperbolic matrix A does not preserve any nontriv- 
+ial hermitian form on C 2 so that the ~*-fibration/Q ~ C2/A is topologically 
+trivial. These topologically trivial ~*-fibrations are characterized by a homo- 
+morphism u : A --~ C* which should be invariant by A. Consider log lul and 
+note that d being hyperbolic, no nontrivial homomorphism from A to ~-, is 
+invariant under d. It follows that u takes its values in S l, i.e., defines an ele- 
+ment of the dual torus~quotient of the dual of ~2 by the dual lattice. Once 
+again the hyperbolicity of A implies that its transpose has finitely many fixed 
+points on the dual torus, i.e., that u is trivial on a finite index sublattice of 
+A. Hence, passing once again to a finite cover of M, one can always assume 
+that the ~*-fibration ~Q --* 1172/A is holomorphically trivial, i.e., isomorphic to 
+~2/A  ~*. 
+The generator of the Galois group should act by 
+(x, T) E r x ~* H (A(x), ~o(x). T) c r x IU* 
+where o~ : ff~2/A -~ ~* is holomorphic, hence does not depend on x. We 
+recover the definition of a holomorphic suspension. [] 
+We now study holomorphic Anosov flows of type II for which the image 
+of the developing map D is the complement of the diagonal A in ~IP I x r t. 
+Recall that ~rlP 1 x ~,1 _ A is a Stein manifold and can be identified with 
+the affine quadric Q = {(a,b,c) E ff~3 ] b 2 _ 4ac = 1} via the map: 
+( ~+fl ~fl l 
+(~,fl) ~ r x cF ~ - ~ ~ ~ I fl'-~---fl' ~-- fl ~ Q. 
+This identification is such that the action of PSL(2,C) on ~F l x q~F l - A 
+corresponds to the restriction to Q of the natural linear irreducible representation 
+of PSL(2, ~) on ~3, considered as the space of homogeneous polynomials of 
+degree 2, aX 2 + bXY + eY 2. 
+Let ~'~ be the space of holomorphic functions on ~IP ~  1 -A, isomorphic 
+to the space of holomorphic functions on ~3 modulo the ideal generated by 
+b2 - 4ac - 1. One can find irrediacible finite dimensional subspaces ~k C ~r 
+(k _> 0) invariant under the action of PSL(2,~) such that: 
+i) ~0 = ~ consists of constant functions, 
+ii) ~)k~0~k consists of polynomial functions on Q c IE 3 and is therefore 
+dense in ~ (in the topology of uniform convergence on compact sets 
+in O). 
+Note also that the embeddings Jt~k ~ Yr split in a PSL(2,r 
+way. Indeed, one can project the space of holomorphic functions on ~3 to the 
+
+
+===== PDF PAGE 26 =====
+
+610 I~. Ghys 
+space of polynomials by considering finite jets at the origin; this is PSL(2, ~)- 
+equivariant and it suffices then to use the complete reducibility of finite dimen- 
+sional representations of PSL(2, ~). 
+Let ~ E 77- {0} and denote by E~ the quotient (77/~77)\SL(2,r where 
+77/~77 consists of diagonal matrices of order I~1. On E~-, one has a natural free 
+r 
+(: o ) (e),x)CIE* xE~--~co.x= (o-7 xEEt 
+where e = sign ([) and the right hand side does not depend on the choice of 
+the E th root. Of course, the orbit space is the same as the quotient of SL(2, C) 
+by the left action by diagonal matrices, i.e., IIYlP 1  II?IP' - A. 
+We shall denote by E0 the product (II?IP 1  IE~ l - A)  112" considered as a 
+trivial ~*-fibration. Note that on each El, there is a natural action of SL(2,11~) 
+commuting with the ~*-action. 
+Lemma 7.3. Any C*-fibration over IEIP 1 x IEIP 1 - A is isomorphic to E/for 
+some f E 77. 
+Proof Since IE~ 1  IUIP 1 - A is a Stein manifold, any Ir*-fibration is cha- 
+racterized by its first Chem class in H2(IISIP .  I1;~ I - A,77) ~ 77. The lemma 
+follows from the fact that the first Chem class of E~ is precisely f. [] 
+After these preliminaries, we consider a holomorphic Anosov flow of type II 
+on M. We assume that the 112*-action is effective and we consider the holonomy 
+cover/O of M, with Galois group F C PSL(2,1E) and the fibration: 
+D : .'Q ~ CIP l  IEIP L - A. 
+The C*-action on M lifts to a free action on JQ. Hence by Lemma 7.3, there 
+is an f E 77 such that the two II~*-fibrations Ee and ~Q are isomorphic. Choose 
+such an isomorphism. By going to a finite covering space, we can assume that 
+F is torsion-free so that the embedding of F in PSL(2,~) lifts to SL(2,~) 
+(this follows from the fact that orientable closed 3-manifolds have a trivial 
+second Stiefel-Whitney class [Mi]). Choose such a lift and consider F as a 
+subgroup of SL(2,C). 
+We know that F acts in two ways on Ee ~ A~r The first action comes fron~ A 
+the action of SL(2, IE) on Ee and the second from the action of F on M. Both 
+actions commute with the II~*-action so that, comparing the two actions of 1', 
+we get for each ? E F a holomorphic map 
+f~ : IrF 1 x ~21P J - A ---+ Ir*. 
+Note that these maps satisfy a cocycle condition, i.e., for 71,~2 E F and ~ C 
+II~F 1 x 1121P 1 - A, one has: 
+f?l ~2 (X) = f~'l (72' x)fr2 (X). 
+
+
+===== PDF PAGE 27 =====
+
+lqolomorphic Anosov systems 611 
+If one denotes by ~* the multiplicative group of holomorphic functions from 
+r x CIP 1 - A to ~* on which F acts naturally we obtain an element of A 
+//I(F,Sr Clearly, changing the identification between M and EE amounts 
+to the choice of some element f in J~f* and f~ changes accordingly by the 
+coboundary of f. 
+Lemma 7.4. Any 1-cocycle f ~ of F with values in Jr* is cohomolo(tous to a 
+I-cocycle with values in the subgroup C* c ~* of constant functions. 
+Before we prove the lemma, let us show how it settles theorem C easily. 
+We first show that the case d = 0 cannot occur. A 1-cocycle of F with 
+values in ~* is nothing but a homomorphism u : F ~ IE* and, in particular, 
+vanishes on the first commutator subgroup F r C F. Therefore, if d = 0, there 
+would be an identification between M and (~IP t x CIP 1 - A) x ~* such that 
+F ~ acts trivially on the second factor. If F is a discrete cocompact subgroup 
+of SL(2,~), the action of F r on r l x CIP l - A is not free. Since the action 
+of F on M is of course free this shows that d cannot be zero. 
+Therefore, Lemma 7.4 shows that there is an identification between )Q and 
+E~ ~ (71/EZ)\SL(2,~) as ~*-fibrations and a homomorphism u : F ~ ~* 
+such that F acts on M in the following way: 
+0)x, u(~)-~ 
+This is precisely the description of the examples of flows given in the intro- 
+duction. This proves theorem C. [] 
+We now prove Lemma 7.4. We begin by two elementary remarks. 
+The first is that it suffices to show that the embedding C ~ Yg induces an 
+isomorphism HI(F,C) --, Hl(F, Jg). Indeed, noting that ~IP 1 x 1121P l - A is 
+simply connected, the exact sequences: 
+0 ~ ~E --~ 112 ~ ~* ~ 1 
+1 l l 0 --~ 7Z --~ ~,~ ~ ~* ~ 1 
+give: 
+H~(F,~) ~ HI(F,~ *) ~ H2(iv,2g) , H2(F,C) 
+1 1 1 l HI(F,~,~) ~ HI(F,~ *) ~ H2(F, TZ) ~ n2(F,~f'). 
+The last vertical map is injective since the injection ~ ~ oeg splits as a map 
+of/'-modules. So, by a classical diagram chasing argument, we can deduce the 
+surjectivity of the second vertical map from the surjectivity of the first. 
+The second preliminary remark is that Hi(F, ~) is finite dimensional. In- 
+deed, let us consider the sheaf f2 on M of germs of holomorphic functions, 
+
+
+===== PDF PAGE 28 =====
+
+612 1~. Ghys 
+constant on the orbits of the tE*-action, and let ~ be its inverse image in M. 
+Since ~ is also the inverse image by D of the sheaf of germs of holomorphic 
+functions on the Stein manifold ~l  ~l _ A we have HI(/Q, ~) = 0. It 
+easily follows (see [Mu, p. 22]) that the natural map: 
+HI(F,H~ ~ HI(M,(2) 
+is an isomorphism. Of course, the left hand side is precisely Hl(F, ffg). Con- 
+sider the sheaf (5' of germs of holomorphic functions on M. The Lie derivative 
+along the ~*-action gives an exact sequence of sheaves: 
+0 --* E2 --~ C9 --~ (9 --~ 0, 
+so that the finite dimensionality of HI(M, (2) follows from that of HI(M, C9). 
+Recall the following theorem of Raghunathan [Ra]. 
+Theorem. Let F be a discrete cocompact subgroup of a simple noncompact Lie 
+group G and let p : G ~ GL(N, R) be a nontrivial irreducible representation. 
+Then, the cohomology group Hi(F, ff~r of the F-module ~N (defined by p) 
+vanishes unless G is locally isomorphic to SO(n, 1 ) or SU(n, 1) and the highest 
+weight of p is a multiple of the highest weight of the canonical representation. 
+In our case, PSL(2,~E) is isomorphic to the identity component SO0(3, 1) 
+of SO(3, 1). If one considers an irreducible finite dimensional complex rep- 
+resentation p : PSL(2,~E) ~ GL(N,r considered as a real representation, 
+SO0(3,1) ~ GL(2N, IR), then the highest weight has the form k(el +e2), 
+whereas the highest weight of the natural representation is el. Here, el and 
+e2 denote the standard basis of the dual of the standard Caftan subalgebra of 
+the complexification of sl(2,~E). Therefore, one deduces from Raghunathan's 
+theorem that for any nontrivial irreducible representation p : PSL(2,~) -~ 
+GL(N,~), the cohomology Ht(F;P, zN) vanishes and hence HI(F;C N) also 
+vanishes. 
+Consider now a cocycle f~ in HI(F, fig). Using the F-equivariant projection 
+~ ff~, we get a cocycle c~ in HI(F,~E). Let us show that g~ = f7 - c~: is 
+cohomologous to 0. Indeed, projecting on each irreducible finite dimensional 
+submodule Jt~k c Jg, and using Raghunathan's result, one gets that 91, is 
+cohomologous to a cocycle whose projections on arbitrarily many octck vanish. 
+This implies that g~ is cohomologous to arbitrarily small 1-cocycles. The finite 
+dimensionality of HI(F, ~tg) implies that g~ is cohomologous to zero. 
+This proves Lemma 7.4, and therefore, theorem D. [] 
+We mention two corollaries of theorem D. 
+Corollary 7.5. For any holomorphic Anosov flow on a compact complex 3. 
+manifoM the stable and unstable bundles are holomorphic sub-bundles of the 
+complex tangent bundle of the ambient manifold. 
+Proof We know that this is true for the lift in some finite covering space 
+of the ambient manifold. The result follows from the fact that the stable and 
+
+
+===== PDF PAGE 29 =====
+
+Holomorphic Anosov systems 613 
+unstable bundle of the lifted flow is the lifted stable and unstable bundle of 
+the flow. [] 
+Corollary 7.6. A holomorphic Anosov flow on a compact complex 3-maniJbld 
+preserves a volume Jbrm. If it is of type II, it actually preserves a nonvanishing 
+holomorphic 3-form. 
+Proof Holomorphic suspensions and flows on SL(2, ~)luF are obviously vol- 
+ume preserving. It follows that this is also the case for flows which are finite 
+quotients of these. This proves the first part of the corollary. 
+Consider the holomorphic 1-form q on SL(2,112) which vanishes on H + 
+and H- and equals 1 on the vector field corresponding to left translations by 
+0 r -~ . It is clear that t/ naturally defines a 1-form, still denoted by v/, in 
+SL(2,1r)fuF (for any admissible u : F --~ 112") which is invariant under the 
+corresponding Anosov flow q~(T). One easily checks that t] A dr/ is a nonsin- 
+gular holomorphic 3-form. Any holomorphic diffeomorphism of SL(2,11~)//uF 
+commuting with 4~(T) preserves both t/ and t/A dtl so that any finite quotient 
+of ~b(T) also preserves a nonsingular holomorphic 3-form. [] 
+Let us remark that the second part of corollary 7.6 cannot be generalized 
+to type I Anosov flows, i.e., to suspensions. Indeed, let B E SL(4,7Z) be 
+a matrix whose spectrum is {pe'~ -i~ 1 to t 1 --IO'l ~;e ,se t with p < 1. This B 
+is conjugate in GL(4,1R) to A = (p~ ~ 0 ) ~,d0, E GL(2,G) C GL(4,F,). 
+Hence A preserves a lattice A C G2. Since det d = e '(~176 if el(~176 1, 
+the diffeomorphismA- of G2/A does not preserve any holomorphic 2-form. If 
+e '(~176 is not a root of unity, the same is true for any lift of/[ to any finite 
+covering space. By considering the holomorphic suspension of A, one produces 
+examples of holomorphic Anosov flows which do not preserve any nontrivial 
+holomorphic 3-form, even after lifting to finite covering spaces. The canonical 
+bundles of these 3-manifolds are nontrivial. Therefore these 3-manifolds are 
+not complex homogeneous spaces (see [G-V] for more details). 
+Acknowledgements. This paper has been written during a stay at IMPA, Rio de Janeiro that 
+1 would like to thank for its hospitality. It is also a pleasure to thank Alberto Verjovsky for 
+many interesting ideas and for his valuable help in preparing the manuscript. In a joint paper 
+[G-V] we study in a similar way locally free holomorphic actions of the complex affine 
+group on complex 3-manifolds. 
+References 
+[Ahj Ahlfors, L. V.: Quasiconformal mappings. Van Nostrand, Princeton, 1966 
+[Ba] Barbot, T.: G6om6trie transverse des riots d'Anosov, Th~se, Lyon, 1992 
+[I3o] Bowen, R.: Markov partitions for Axiom A diffeomorphisms, Am. J. Math. 92, 907- 
+918 (1970) 
+[Ca! Candel, A.: Uniformization theorem for surface laminations, Ann. Sci. Ec. Norm. 
+Sup. 26, 489-516 (1993) 
+
+
+===== PDF PAGE 30 =====
+
+614 t~. Ghys 
+[En] 
+[F-J] 
+[Fr] 
+[Fu] 
+[Ghl] 
+[Gh2] 
+[Gh3] 
+[Gh4] 
+[GhS] 
+[G-VI 
+[Gol] 
+[G-HI 
+[Gr] 
+[Ha] 
+[HPS] 
+[H-S] 
+[Man] 
+[Mann] 
+[Maz] 
+[Mi] 
+[Mu] 
+[PII] 
+[P12] 
+[R~] 
+[Ro] 
+[Si] 
+[Sm] 
+[Snl 
+[Su] 
+[Th] 
+[Vel 
+Enriques, F.: Sulle superficie algebricke che ammetiono una serie discontinua di 
+transformazioni birazionali, Rend. Acc. Lincei 15, 665~569 (1906) 
+Farell, T., Jones, L.: Markov cell structure near a hyperbolic set, Memoirs of the 
+AMS. 491 (1993) 
+Franks, J.: Anosov diffeomorphisms, Proc. Symp. Pure Maths. 14, 61-93 (1970) 
+Fujiki, A.: On automorphism groups of compact K/ihler manifolds, Inventiones 44, 
+225~58 (1978) 
+Ghys, E.: Actions localement libres du groupe affine, Inventiones 82, 479 526 (1985) 
+Ghys, E.: Flots d'Anosov dont les feuilletages stables sont diffrrentiables, Ann. Sci- 
+ent. Ec. Norm. Sup. 20, 251-270 (1987) 
+Ghys, E.: Gauss-Bonnet theorem for 2-dimensional foliations, Journal of Func. Anal- 
+ysis 77, 51-59 (1988) 
+Ghys, E.: Drformations de riots d'Anosov et de groupes fuchsiens, Ann. Inst. Fourier, 
+Grenoble 42, 209-247 (1992) 
+Ghys, E.: Rigidit6 diffrrentiable des groupes fuchsiens, Pub. Sci. I.H.E.S. 78, 163 
+185 (1993) 
+Ghys, E., Verjovsky, A.: Locally free holomorphic actions of the complex affine 
+group, (preprint) (1994) 
+Goldman, W.: Nonstandard Lorentz space forms, J. Differ. Geom. 21, 301-308 
+(1985) 
+Gottschalk, W. H., Hedlund, G. A.: Topological Dynamics, vol. 36, AMS Pub Col- 
+loquium, 1955 
+Gromov, M.: Three remarks on geodesic dynamics and fundamental group, (unpub- 
+lished preprint, SUNY) (1977) 
+Haefliger, A.: Groupoides d'holonomie et classifiants, Astrrisque 116, 70-97 (1984) 
+Hirsch, M., Pugh, C. and Shub, M.: Invariant manifolds, (Lecture Notes 583), 
+Springer Verlag, New York, 1977 
+Hsiang, W. C., Shaneson, J. L.: On fake toil, Topology of manifolds, Markham 
+Publishing Company, 1969, pp. 18-51 
+Mafir, R.: Ergodic theory and differentiable dynamics, Springer Verlag, New York, 
+1987 
+Manning, A.: There are no new Anosov diffeomorphisms on tori, Amer. J. Math. 
+96, 422-429 (1974) 
+Mazur, B.: The topology of rational points, Experimental Math. 1, 35-45 (1992) 
+Milnor, J., Stasheff, J.: Characteristic classes, Princeton University Press, Princeton, 
+1974 
+Mumford, D.: Abelian varieties, (second edition), Oxford University Press, Oxford, 
+1974 
+Plante, J.: Anosov flows, Amer. J. Math. 94, 729-754 (1972) 
+Plante, J.: Anosov flows, transversely affine foliations and a conjecture of Verjovsky, 
+J. London Math. Soc. (2) 23, 359-362 (1981) 
+Raghunathan, M. S.: On the first cohomology of discrete subgroups of semi-simple 
+Lie groups, Amer. J. Math. 87, 103-139 (1965) 
+Roth, L.: Algebraic Threefolds, Springer, 1955 
+Sinai, Ya.: Markov partitions and C-diffeomorphisms, Anal. and Appl. 2, 70-80 
+(1968) 
+Smale, S.: Differentiable dynamical systems, Bull. Amer. Math. Soc. 73, 747-817 
+(1967) 
+Snow, D.: Transformation groups of compact Kiihler spaces, Arch. Math. 37, 364 
+371 (1981) 
+Sullivan, D.: Bounds, quadratic differentials, and renormalization conjectures, Math- 
+ematics into the Twenty first Century, Vol. 2, American Mathematical Society, Pro- 
+vidence, 1991 
+Thurston, W.: The geometry and topology of 3-manifolds, (Princeton Lecture Notes). 
+1977 
+Verjovsky, A.: A uniformization theorem for complex foliations by Riemann sur- 
+faces, Contemporary Mathematics 58 (Part III) (1987) 

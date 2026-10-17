@@ -1,0 +1,17 @@
+[
+  {
+    "file": "01_Ghys_1995_Holomorphic_Anosov_systems.pdf",
+    "sha256": "b30c190cc95c94c8fb2a32d4c97fddb44df822cb8ca86b7a662b644c152709e6",
+    "matches_original": true
+  },
+  {
+    "file": "02_Cantat_2004_Diffeomorphismes_holomorphes_Anosov.pdf",
+    "sha256": "57dc5025ce67c9f7ce22fb7ad2e1b7621e7b4822464aeb5fe4ac7399123b3e40",
+    "matches_original": true
+  },
+  {
+    "file": "03_Benoist_Labourie_1993_Anosov_affines.pdf",
+    "sha256": "cd8befbc250ea6a76bf4ca116fd18eeea68d79835a4dff110a57175e246b10d0",
+    "matches_original": true
+  }
+]

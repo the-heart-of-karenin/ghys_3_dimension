@@ -1,0 +1,84 @@
+{
+  "content_cutoff_exclusive": "2026-06-01",
+  "download_date_local": "2026-10-17",
+  "timezone": "Asia/Shanghai",
+  "version_policy": "Only fixed pre-cutoff published journal content; original downloaded PDF bytes retained. Digital file metadata is supplementary, not independent proof of first public availability.",
+  "documents": [
+    {
+      "file": "01_Ghys_1995_Holomorphic_Anosov_systems.pdf",
+      "title": "Holomorphic Anosov systems",
+      "authors": [
+        "Etienne Ghys"
+      ],
+      "publication_year": 1995,
+      "journal": "Inventiones Mathematicae 119(3), 585-614",
+      "doi": "10.1007/BF01245193",
+      "source_url": "https://perso.ens-lyon.fr/ghys/articles/holomorphicanosov.pdf",
+      "publisher_record": "https://link.springer.com/article/10.1007/BF01245193",
+      "version": "Scan of the 1995 journal version, 30 pages; PDF metadata dates from 2005.",
+      "printed_page_for_pdf_page_1": 585,
+      "pdf_pages": 30,
+      "bytes": 1578356,
+      "sha256": "b30c190cc95c94c8fb2a32d4c97fddb44df822cb8ca86b7a662b644c152709e6",
+      "pdf_metadata": {
+        "/Creator": "213021021.TIF",
+        "/CreationDate": "Tue Feb 01 09:23:06 2005",
+        "/Title": "Holomorphic Anosov systems",
+        "/Author": "",
+        "/Producer": "PageGenie PDFGenerator",
+        "/Keywords": "",
+        "/Subject": "",
+        "/ModDate": "D:20050216051651+08'00'"
+      }
+    },
+    {
+      "file": "02_Cantat_2004_Diffeomorphismes_holomorphes_Anosov.pdf",
+      "title": "Diffeomorphismes holomorphes Anosov",
+      "authors": [
+        "Serge Cantat"
+      ],
+      "publication_year": 2004,
+      "publisher_record_publication_date": "2004-12-31",
+      "journal": "Commentarii Mathematici Helvetici 79(4), 779-797",
+      "doi": "10.1007/s00014-004-0811-3",
+      "source_url": "https://ems.press/content/serial-article-files/43027",
+      "publisher_record": "https://ems.press/journals/cmh/articles/503",
+      "version": "Publisher journal PDF, 19 pages; PDF creation/modification metadata 2004-08-16.",
+      "printed_page_for_pdf_page_1": 779,
+      "pdf_pages": 19,
+      "bytes": 224773,
+      "sha256": "57dc5025ce67c9f7ce22fb7ad2e1b7621e7b4822464aeb5fe4ac7399123b3e40",
+      "pdf_metadata": {
+        "/ModDate": "D:20040816123124+02'00'",
+        "/CreationDate": "D:20040816123124+02'00'",
+        "/Title": "untitled",
+        "/Producer": "Acrobat Distiller 6.0 (Windows)"
+      }
+    },
+    {
+      "file": "03_Benoist_Labourie_1993_Anosov_affines.pdf",
+      "title": "Sur les diffeomorphismes d'Anosov affines a feuilletages stable et instable differentiables",
+      "authors": [
+        "Yves Benoist",
+        "Francois Labourie"
+      ],
+      "publication_year": 1993,
+      "journal": "Inventiones Mathematicae 111(2), 285-308",
+      "doi": "10.1007/BF01231289",
+      "source_url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN356556735_0111/LOG_0029.pdf",
+      "publisher_record": "https://link.springer.com/article/10.1007/BF01231289",
+      "library_manifest": "https://manifests.sub.uni-goettingen.de/iiif/presentation/PPN356556735_0111/manifest?version=29486bf2",
+      "version": "1993 journal scan; 1 library cover + 24 article pages. PDF metadata 2020-05-08. Not the 32-page author manuscript.",
+      "printed_page_for_pdf_page_2": 285,
+      "pdf_pages": 25,
+      "bytes": 2407044,
+      "sha256": "cd8befbc250ea6a76bf4ca116fd18eeea68d79835a4dff110a57175e246b10d0",
+      "pdf_metadata": {
+        "/ModDate": "D:20200508203519Z",
+        "/CreationDate": "D:20200508203519Z",
+        "/Creator": "pdftk 2.02 - www.pdftk.com",
+        "/Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)"
+      }
+    }
+  ]
+}
